@@ -1,0 +1,25 @@
+# Служебные файлы ОС
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Служебные файлы Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Редакторы
+.vscode/
+.idea/
